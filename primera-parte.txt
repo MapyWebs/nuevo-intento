@@ -1,4 +1,5 @@
 al parecer tengo que nombrar mi nueva carpeta y escribir lo que quiero
+ESTOY INCLUYENDO ALGO NUEVO EN LA MASTER AUN NO SE EXACTAMENTE PARA QUE 
 
 
 asi que esto es lo que va a decir mi nueva carpeta
@@ -13,4 +14,3 @@ Vamos a hacerlo una vez mas para ver como funciona
 Ahora estoy escribiendo en una rama para hacer cambios sin tocar el master, si no me equivoco
 
 
-ESTOY INCLUYENDO ALGO NUEVO EN LA MASTER AUN NO SE EXACTAMENTE PARA QUE 
