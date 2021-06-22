@@ -9,8 +9,4 @@ me lo paso pipa
 
 una vez esta guardado si quiero escribir algo mas, usare el boli.... bueno hasta ahi llego 
 Vamos a hacerlo una vez mas para ver como funciona 
-
-
 Ahora estoy escribiendo en una rama para hacer cambios sin tocar el master, si no me equivoco
-
-
